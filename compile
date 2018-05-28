@@ -1,4 +1,4 @@
 Compile rust to wasm with following command: rustc --target wasm32-unknown-unknown -O name.rs
 If no rust compiler is available you can compile your code to wasm at this site: https://play.rust-lang.org/
 To copy the compiled wasm code to your clipboard use following code in the console: document.querySelector(".output-code code"); document.execCommand("copy");
-After that paste into a Textfile and save it as a .wasm file. Dont forget to remove the opening and closing tags (<code> and </code>
+After that paste into a Textfile and save it as a .wasm file. Dont forget to remove the opening and closing tags (<code> and </code>)
