@@ -1,0 +1,1 @@
+Compile rust to wasm with following command: rustc --target wasm32-unknown-unknown -O name.rs
